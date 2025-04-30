@@ -1,6 +1,8 @@
 streamlit
 matplotlib
 opencv-python
-pandas         # if used
-numpy          # if used
-scikit-learn   # if used
+pandas
+numpy
+scikit-learn
+joblib           # If you're saving/loading models
+Pillow           # For image handling
