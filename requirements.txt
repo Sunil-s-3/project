@@ -1,0 +1,4 @@
+streamlit
+matplotlib
+pandas         # If you're using it
+scikit-learn   # If your ML model is from sklearn
